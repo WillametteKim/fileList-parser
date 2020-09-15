@@ -7,4 +7,4 @@ can be used when you list-up your files
 
 #### SAMPLE
 - [INPUT](/sample/src.txt)
-- [OUTPUT](/sample/output.txt)
+- [OUTPUT](/sample/dst.txt)
